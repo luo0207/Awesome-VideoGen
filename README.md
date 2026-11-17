@@ -11,8 +11,9 @@ This collection is updated continuously. Suggestions and pull requests are welco
   - [1.1 Pixel-Space Video Generation](#11-pixel-space-video-generation)
 - [2 Efficient Generation & Acceleration](#2-efficient-generation--acceleration)
   - [2.1 Diffusion Distillation](#21-diffusion-distillation)
-- [3 World Models](#3-world-models)
+- [3 World Models & Interactive Agents](#3-world-models--interactive-agents)
   - [3.1 Coding World Models](#31-coding-world-models)
+  - [3.2 Game Agents](#32-game-agents)
 
 ---
 
@@ -32,10 +33,16 @@ This collection is updated continuously. Suggestions and pull requests are welco
   [Paper](https://arxiv.org/pdf/2611.17194) | [Code](https://github.com/Westlake-AGI-Lab/eDMD)  
   **TL;DR:** Matches final-output distributions to improve few-step diffusion distillation.
 
-## 3 World Models
+## 3 World Models & Interactive Agents
 
 ### 3.1 Coding World Models
 
 - **CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models** (2026-11-11)  
   [Paper](https://arxiv.org/pdf/2611.15602) | [Project](https://iapple233.github.io/CCW/) | [Code](https://github.com/IApple233/CoCode-World)  
   **TL;DR:** Uses programmable 3D proxies to jointly generate consistent two-player views.
+
+### 3.2 Game Agents
+
+- **Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent** (2026-11-13)  
+  [Paper](https://arxiv.org/pdf/2611.18397) | [Project](https://mihoyo-gamer.github.io/) | [Code](https://github.com/RainBowLuoCS/Gamer)  
+  **TL;DR:** Combines memory, sparse reasoning, and reinforcement learning for long-horizon real-time gameplay.

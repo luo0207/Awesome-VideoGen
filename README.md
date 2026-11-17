@@ -14,6 +14,7 @@ This collection is updated continuously. Suggestions and pull requests are welco
 - [3 World Models & Interactive Agents](#3-world-models--interactive-agents)
   - [3.1 Coding World Models](#31-coding-world-models)
   - [3.2 Game Agents](#32-game-agents)
+  - [3.3 Agentic Scene Generation](#33-agentic-scene-generation)
 
 ---
 
@@ -41,8 +42,18 @@ This collection is updated continuously. Suggestions and pull requests are welco
   [Paper](https://arxiv.org/pdf/2611.15602) | [Project](https://iapple233.github.io/CCW/) | [Code](https://github.com/IApple233/CoCode-World)  
   **TL;DR:** Uses programmable 3D proxies to jointly generate consistent two-player views.
 
+- **WorldDraft: If Code Builds the World, Can Video Models Just Render It?** (2026-11-12)  
+  [Paper](https://arxiv.org/pdf/2611.16217) | [Project](https://haroldchen19.github.io/WorldDraft-site/) | [Code](https://github.com/KevinHuge/WorldDraft)  
+  **TL;DR:** Benchmarks and improves video models as renderers of code-built 4D worlds.
+
 ### 3.2 Game Agents
 
 - **Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent** (2026-11-13)  
   [Paper](https://arxiv.org/pdf/2611.18397) | [Project](https://mihoyo-gamer.github.io/) | [Code](https://github.com/RainBowLuoCS/Gamer)  
   **TL;DR:** Combines memory, sparse reasoning, and reinforcement learning for long-horizon real-time gameplay.
+
+### 3.3 Agentic Scene Generation
+
+- **SceneAgent: A Multi-Agent Framework for Portable Game Scene Generation** (2026-11-13)  
+  [Paper](https://arxiv.org/pdf/2611.17821) | [Project](https://xingyi-li.github.io/sceneagent/)  
+  **TL;DR:** Builds portable game scenes with coordinated agents and reusable layout and content skills.

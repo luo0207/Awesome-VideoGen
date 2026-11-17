@@ -18,4 +18,4 @@ This collection is updated continuously. Suggestions and pull requests are welco
 
 - **[PixVid] Back to Pixels: Lifting Latent Video Diffusion into Pixel Space** (2026)  
   [Paper](https://arxiv.org/pdf/2611.17336) | [Project](https://chenshuo20.github.io/PixVid/)  
-  **TL;DR:** Adapts a pretrained latent video diffusion model to generate frames directly in pixel space, enabling efficient high-resolution generation, precise frame-level control, and low-latency interaction.
+  **TL;DR:** Lifts latent video diffusion into pixel space for high-resolution, controllable, low-latency generation.

@@ -16,4 +16,7 @@ This collection is updated continuously. Suggestions and pull requests are welco
 
 ### 1.1 Pixel-Space Video Generation
 
-- (PixVid) Back to Pixels: Lifting Latent Video Diffusion into Pixel Space. [![arXiv 26.11](https://img.shields.io/badge/arXiv-26.11-b31b1b)](https://arxiv.org/abs/2611.17336) [Project](https://chenshuo20.github.io/PixVid/)
+- **[PixVid] Back to Pixels: Lifting Latent Video Diffusion into Pixel Space** (2026)  
+  [Paper](https://arxiv.org/pdf/2611.17336) | [Project](https://chenshuo20.github.io/PixVid/)  
+  将预训练 latent 视频扩散模型迁移至逐帧像素空间生成，支持高分辨率合成、精确条件控制与低延迟交互。  
+  Tags: `Pixel-Space` · `VAE-Free` · `High-Resolution` · `Interactive Generation`
